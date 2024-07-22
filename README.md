@@ -1,3 +1,3 @@
 # first-
-this is my first repository
-author - Shoaib ansari
+this is my first repository.
+Author - Shoaib ansari
